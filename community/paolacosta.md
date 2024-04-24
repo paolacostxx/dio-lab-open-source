@@ -3,7 +3,7 @@ Olá rede, atualmente estou finalizando o técnico em Desenvolvimento de sistema
 
 ### Me encontre
 
-[![E-mail : paolacosta599@gmail.com](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](paolacosta599@gmail.com)
+[![E-mail : [paolacosta599@gmail.com](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](paolacosta599@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/paola-costaaa/)
 
 
